@@ -1,0 +1,46 @@
+"filename", "language", "JSON", "JavaScript", "CSS", "Markdown", "Django HTML", "Django txt", "comment", "blank", "total"
+"e:\PROJECT\Project\Agromart-frontend\README.md", "Markdown", 0, 0, 0, 38, 0, 0, 0, 33, 71
+"e:\PROJECT\Project\Agromart-frontend\package.json", "JSON", 55, 0, 0, 0, 0, 0, 0, 1, 56
+"e:\PROJECT\Project\Agromart-frontend\public\index.html", "Django HTML", 0, 0, 0, 0, 26, 0, 0, 4, 30
+"e:\PROJECT\Project\Agromart-frontend\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\PROJECT\Project\Agromart-frontend\public\robots.txt", "Django txt", 0, 0, 0, 0, 0, 3, 0, 1, 4
+"e:\PROJECT\Project\Agromart-frontend\site.webmanifest", "JSON", 1, 0, 0, 0, 0, 0, 0, 0, 1
+"e:\PROJECT\Project\Agromart-frontend\src\App.js", "JavaScript", 0, 8, 0, 0, 0, 0, 0, 1, 9
+"e:\PROJECT\Project\Agromart-frontend\src\Routes.js", "JavaScript", 0, 87, 0, 0, 0, 0, 0, 5, 92
+"e:\PROJECT\Project\Agromart-frontend\src\admin\AddCategory.js", "JavaScript", 0, 77, 0, 0, 0, 0, 1, 11, 89
+"e:\PROJECT\Project\Agromart-frontend\src\admin\AddProduct.js", "JavaScript", 0, 169, 0, 0, 0, 0, 2, 14, 185
+"e:\PROJECT\Project\Agromart-frontend\src\admin\ManageCategories.js", "JavaScript", 0, 77, 0, 0, 0, 0, 0, 13, 90
+"e:\PROJECT\Project\Agromart-frontend\src\admin\ManageOrders.js", "JavaScript", 0, 89, 0, 0, 0, 0, 0, 11, 100
+"e:\PROJECT\Project\Agromart-frontend\src\admin\ManageProducts.js", "JavaScript", 0, 77, 0, 0, 0, 0, 0, 11, 88
+"e:\PROJECT\Project\Agromart-frontend\src\admin\Orders.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\PROJECT\Project\Agromart-frontend\src\admin\UpdateCategory.js", "JavaScript", 0, 89, 0, 0, 0, 0, 1, 12, 102
+"e:\PROJECT\Project\Agromart-frontend\src\admin\UpdateProduct.js", "JavaScript", 0, 199, 0, 0, 0, 0, 2, 15, 216
+"e:\PROJECT\Project\Agromart-frontend\src\admin\ViewOrder.js", "JavaScript", 0, 134, 0, 0, 0, 0, 1, 21, 156
+"e:\PROJECT\Project\Agromart-frontend\src\admin\fut.txt", "Django txt", 0, 0, 0, 0, 0, 11, 0, 6, 17
+"e:\PROJECT\Project\Agromart-frontend\src\admin\helper\adminapicall.js", "JavaScript", 0, 114, 0, 0, 0, 0, 12, 15, 141
+"e:\PROJECT\Project\Agromart-frontend\src\auth\helper\AdminRoutes.js", "JavaScript", 0, 23, 0, 0, 0, 0, 0, 4, 27
+"e:\PROJECT\Project\Agromart-frontend\src\auth\helper\PrivateRoutes.js", "JavaScript", 0, 23, 0, 0, 0, 0, 0, 3, 26
+"e:\PROJECT\Project\Agromart-frontend\src\auth\helper\index.js", "JavaScript", 0, 56, 0, 0, 0, 0, 0, 7, 63
+"e:\PROJECT\Project\Agromart-frontend\src\backend.js", "JavaScript", 0, 1, 0, 0, 0, 0, 0, 1, 2
+"e:\PROJECT\Project\Agromart-frontend\src\core\Base.js", "JavaScript", 0, 33, 0, 0, 0, 0, 0, 4, 37
+"e:\PROJECT\Project\Agromart-frontend\src\core\Card.js", "JavaScript", 0, 72, 0, 0, 0, 0, 1, 6, 79
+"e:\PROJECT\Project\Agromart-frontend\src\core\Cart.js", "JavaScript", 0, 49, 0, 0, 0, 0, 0, 6, 55
+"e:\PROJECT\Project\Agromart-frontend\src\core\Home.js", "JavaScript", 0, 39, 0, 0, 0, 0, 0, 4, 43
+"e:\PROJECT\Project\Agromart-frontend\src\core\Menu.js", "JavaScript", 0, 77, 0, 0, 0, 0, 0, 6, 83
+"e:\PROJECT\Project\Agromart-frontend\src\core\PayCheckout.js", "JavaScript", 0, 116, 0, 0, 0, 0, 3, 24, 143
+"e:\PROJECT\Project\Agromart-frontend\src\core\StickyFooter.js", "JavaScript", 0, 50, 0, 0, 0, 0, 0, 3, 53
+"e:\PROJECT\Project\Agromart-frontend\src\core\helper\ImageHelper.js", "JavaScript", 0, 16, 0, 0, 0, 0, 0, 2, 18
+"e:\PROJECT\Project\Agromart-frontend\src\core\helper\cartHelper.js", "JavaScript", 0, 56, 0, 0, 0, 0, 0, 5, 61
+"e:\PROJECT\Project\Agromart-frontend\src\core\helper\coreapicalls.js", "JavaScript", 0, 13, 0, 0, 0, 0, 0, 1, 14
+"e:\PROJECT\Project\Agromart-frontend\src\core\helper\orderHelper.js", "JavaScript", 0, 81, 0, 0, 0, 0, 1, 8, 90
+"e:\PROJECT\Project\Agromart-frontend\src\index.js", "JavaScript", 0, 4, 0, 0, 0, 0, 0, 1, 5
+"e:\PROJECT\Project\Agromart-frontend\src\styles.css", "CSS", 0, 0, 14, 0, 0, 0, 0, 2, 16
+"e:\PROJECT\Project\Agromart-frontend\src\user\AdminDashBoard.js", "JavaScript", 0, 65, 0, 0, 0, 0, 0, 9, 74
+"e:\PROJECT\Project\Agromart-frontend\src\user\EditUser.js", "JavaScript", 0, 185, 0, 0, 0, 0, 0, 17, 202
+"e:\PROJECT\Project\Agromart-frontend\src\user\Profile.js", "JavaScript", 0, 11, 0, 0, 0, 0, 0, 3, 14
+"e:\PROJECT\Project\Agromart-frontend\src\user\Signin.js", "JavaScript", 0, 162, 0, 0, 0, 0, 1, 16, 179
+"e:\PROJECT\Project\Agromart-frontend\src\user\Signup.js", "JavaScript", 0, 166, 0, 0, 0, 0, 0, 15, 181
+"e:\PROJECT\Project\Agromart-frontend\src\user\UserDashBoard.js", "JavaScript", 0, 93, 0, 0, 0, 0, 0, 16, 109
+"e:\PROJECT\Project\Agromart-frontend\src\user\UserOrders.js", "JavaScript", 0, 57, 0, 0, 0, 0, 0, 19, 76
+"e:\PROJECT\Project\Agromart-frontend\src\user\helper\userapicalls.js", "JavaScript", 0, 28, 0, 0, 0, 0, 0, 4, 32
+"Total", "-", 81, 2596, 14, 38, 26, 14, 25, 362, 3156
